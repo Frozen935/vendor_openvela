@@ -49,7 +49,7 @@ mediad &
 #endif
 
 #ifdef CONFIG_BLUETOOTH_SERVER
-bluetoothd &
+//bluetoothd &
 #endif
 
 #ifdef CONFIG_FS_HOSTFS
